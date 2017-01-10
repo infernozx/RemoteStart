@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2
+EESchema Schematic File Version 2.0
 LIBS:power
 LIBS:device
 LIBS:transistors
